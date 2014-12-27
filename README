@@ -47,11 +47,10 @@ The following tutorial is specific to the terminal enviroment.
 
 Compiling the Source Codes
 
-Before using ARGraphs segmentation codes, you should compile the c and h files. First, 
-change your path to ARGraphs/src. We recommend that you use the standard gcc compiler for 
+Before using ARGraphs segmentation codes. We recommend that you use the standard gcc compiler for 
 compilation shown as below (without $):
 
-$ gcc *.c ../*.c -o ARGraphs –w
+$ gcc *.c src/*.c -o ARGraphs –w
 
 (IMPORTANT: Linux/Unix users, if you get any errors, please replace -w with -lm)
 
