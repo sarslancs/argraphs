@@ -181,7 +181,7 @@ void insertHeap(HEAP *H, double key, int cx, int cy, int label){
 		H->data[place] = H->data[parent];
 		H->data[parent] = tmp;
 		
-		place = parent;
+		place = parent; 
 		parent = (place - 1) / 2;
 	}
 	H->size += 1;
