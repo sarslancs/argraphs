@@ -1,4 +1,5 @@
-/*
+/* ARGRAPHS: Attributed relational graphs for cell segmentation
+ *
  * Produced and made publicly available by Cigdem Gunduz Demir and Salim Arslan.
  * Contact (Salim Arslan): name.surname@imperial.ac.uk
  *
@@ -6,7 +7,7 @@
  * modification, are permitted provided that the following conditions
  * are met:
  *
- *	 - We request that use of this software be cited in publications as:
+ *   - We request that use of this software be cited in publications as:
  *     S. Arslan, T. Ersahin, R. Cetin-Atalay, and C. Gunduz-Demir, "Attributed relational 
  *     graphs for cell nucleus segmentation in fluorescence microscopy images," IEEE 
  *     Transactions on Medical Imaging, 2013.
